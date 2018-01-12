@@ -5,6 +5,7 @@ Este programa foi desenvolvido como trabalho final para o MOOC "Introdução à 
 Como trata-se de um programa desenvolvido por alguém que está se iniciando no aprendizado de Python, ele é bem simples e ainda um pouco lento, mas funciona!
 
 Antes de usar o programa, é importante ter em mente as seguintes informações:
+- O programa foi criado em Python3 e usa as bibliotecas csv, collections, requests e BeautifulSoup.
 - O objetivo do programa é identificar quem financiou as campanhas eleitorais de cada candidato, com doações de pessoa física, e mostrar de quais empresas estas pessoas são sócias.
 - O programa foi desenvolvido para funcionar somente com as eleições municipais de 2016.
 - O programa funciona para candidados de qualquer cargo e de qualquer cidade do Brasil, mas por questões de rapidez, é necessário indicar o estado onde o candidato concorreu.
