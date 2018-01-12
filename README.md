@@ -1,4 +1,4 @@
-# financiamento-2016
+# Quem financiou esse candidato?
 Programa em Python que cruza nomes de pessoas físicas que financiaram um candidato com as empresas das quais ela é sócia.
 
 Este programa foi desenvolvido como trabalho final para o MOOC "Introdução à Programação: Python para Jornalistas", ofericido pelo Knight Center for Journalism in the Americas.
