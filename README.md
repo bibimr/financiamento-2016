@@ -2,9 +2,9 @@
 Programa em Python que cruza nomes de pessoas físicas que financiaram um candidato com as empresas das quais ela é sócia.
 
 Este programa foi desenvolvido como trabalho final para o MOOC "Introdução à Programação: Python para Jornalistas", ofericido pelo Knight Center for Journalism in the Americas.
-Como trata-se de um programa desenvolvido por alguém que está se iniciando no aprendizado de Python, ele é bem simples e ainda um pouco lento, mas funciona!
 
 Antes de usar o programa, é importante ter em mente as seguintes informações:
+- O programa foi escrito por uma pessoa iniciante na linguagem Python e, portanto, ainda não possui um código tão limpo, além de depender de certas restrições de outros sites que ainda não tenho conhecimento sufuciente para resolver.
 - O programa foi criado em Python3 e usa as bibliotecas csv, collections, requests e BeautifulSoup.
 - O objetivo do programa é identificar quem financiou as campanhas eleitorais de cada candidato, com doações de pessoa física, e mostrar de quais empresas estas pessoas são sócias.
 - O programa foi desenvolvido para funcionar somente com as eleições municipais de 2016.
